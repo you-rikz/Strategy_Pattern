@@ -1,0 +1,15 @@
+{
+    "name": "arnol/strat-pattern",
+    "autoload": {
+        "psr-4": {
+            "Strat\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "you-rikz",
+            "email": "arnoldlim0337@gmail.com"
+        }
+    ],
+    "require": {}
+}
